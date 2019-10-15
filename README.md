@@ -18,9 +18,12 @@ mini_jeu_POO
 │   ├── player_2.rb
 │   └── game.rb
 │
+├── spec
+│   ├── player_spec.rb
+│   └── spec_helper.rb
 ├── app.rb
 ├── app_2.rb
 ├── README.md
 ├── Gemfile
 ├── Gemfile.lock
-└── Autres fichiers (.env, .gitignore)
+└── Autres fichiers optionnels (.env, .gitignore)
